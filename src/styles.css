@@ -1,0 +1,19 @@
+.folderStructure {
+  margin-top: 10px;
+  cursor: pointer;
+}
+.childFolder {
+  padding-left: 15px;
+}
+
+.folder-container {
+  background-color: gray;
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  padding: 3px;
+}
+
+.folder-container > span > i {
+  margin-right: 5px;
+}
